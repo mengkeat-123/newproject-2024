@@ -62,3 +62,21 @@
  justify-content: center; 
 
 }
+.training{
+    text-align: center;
+}
+.services{
+    text-align: center;
+    display: flex;
+    
+}
+
+.good{
+    justify-content: center;
+  display: flex;
+   
+}
+.edit{
+    
+    margin-right: 10px;
+}
