@@ -114,3 +114,47 @@
  align-items: center;
     
 }
+.framework{
+    display: flex;
+    align-items: center;
+
+}
+.nodejs{
+    font-size: 12px;
+    color:black;
+    margin: 10px;
+    
+
+}
+.nextjs{
+    font-size: 12px;
+    color:black;
+    margin: 10px;
+    
+    
+}
+.tailwindjs{
+    font-size: 12px;
+    color:black;
+    margin: 10px;
+    
+}
+.angularjs{
+    font-size: 12px;
+    color:black;
+    margin: 10px;
+    
+
+}
+.reactjs{
+    font-size: 12px;
+    color:black;
+    margin: 10px;
+    
+}
+.vuejs{
+    font-size: 12px;
+    color:black;
+    margin: 10px;
+    
+}
